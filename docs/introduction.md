@@ -17,5 +17,9 @@ The core purpose of the Hedera MCP server is to simplify working with Hedera by 
 
 Thanks to our MCP server, you can interact with Hedera in a fast and straightforward way—directly from your favorite client that supports SSE communication and header transmission, such as VS Code.
 
+## Architecture
+![Architecture Diagram](./img/architecture.png) 
+
 ## Installation
-[Quick start](/mcp-server/quick-start)
+- [Quick start](/mcp-server/quick-start)
+- [How to use](/mcp-server/how-to-use)
